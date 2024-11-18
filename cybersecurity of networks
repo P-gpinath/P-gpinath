@@ -98,4 +98,4 @@ result_access_label.pack(pady=5)
 
 # Run the main loop of the window
 window.mainloop()
-Which algorithm and methodology is used for the above code..?
+
